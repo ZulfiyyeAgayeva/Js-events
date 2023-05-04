@@ -1,0 +1,27 @@
+button{
+    padding: 10px 20px;
+    background-color: rgb(181, 112, 250);
+    color: antiquewhite;
+    border: none;
+}
+button:hover{
+cursor: pointer;
+transition: .5s;
+background-color: rgb(223, 161, 241);
+}
+.btn{
+    background-color: rgb(181, 112, 250);
+    width: 400px;
+}
+.content{
+    display: none;
+}
+#london{
+    display: none;
+}
+#paris{
+    display: none;
+}
+#tokio{
+    display: none;
+}
